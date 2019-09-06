@@ -47,6 +47,6 @@ class AddedTillTarget {
 				System.out.print(i);
 			}
 		}
-		System.out.print("‚Ì˜a‚Í" + this.additionResult + "‚Å‚·");
+		System.out.print("ã®å’Œã¯" + this.additionResult + "ã§ã™ã€‚");
 	}
 }
